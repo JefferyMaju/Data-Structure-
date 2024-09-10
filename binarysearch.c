@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 void main()
 {
 	int i,x,left=0,a[20],n,flag,right,mid,pos,space,time=0;
